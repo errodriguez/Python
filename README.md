@@ -1,3 +1,3 @@
 # Python
 
-Este repositorio contiene scripts, programas, pequeños y grandes proyectos desarrollados íntegramente en el lenguaje de programación Python.
+This repository contains scripts, programs, small and large projects developed entirely in the Python programming language.
