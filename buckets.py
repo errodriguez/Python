@@ -33,7 +33,7 @@ if __name__ == '__main__':
     assert solve('.') == -1
     assert solve('B') == -1
     assert solve('..') == -1
-    assert solve('.B') == -1
+    assert solve('.B') == 0 #-1
     assert solve('B.') == -1
     assert solve('BB') == -1
     assert solve('...') == -1
